@@ -1,0 +1,41 @@
+.cart_1 {
+    width: 20%;
+}
+.cart_2 {
+    width: 20%;
+}
+.cart_3 {
+    width: 20%;
+}
+.soft_button {
+    background-color: #A4BC46;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
+.box-img {
+    background-color: #F1F1F1;
+    padding: 20px;
+}
+.penguin {
+    color: #F4BF49;
+    padding-top: 15%;
+}
+.winter {
+    color: #373857;
+}
+.hero {
+    background-color: #FFFBEF;
+    padding-bottom: 10%;
+}
+.title_header {
+    color: #373857;
+    margin: 20px 0;
+}
+.text-color {
+    color: #373857;
+}
+
+.price {
+    color: #F8C055;
+}
